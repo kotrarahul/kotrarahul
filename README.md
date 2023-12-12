@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kotrarahul
-- 👀 I’m interested in aanalyizing data
+- 👀 I’m interested in analyizing data
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
